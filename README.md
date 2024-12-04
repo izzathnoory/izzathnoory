@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izzathnoory
 - 👀 I’m interested in C# and Python
 - 🌱 I’m currently learning C#
-- 📫 How to reach me izzathnoory6@gmail.com
+- 📫 How to reach me izzathnoory11@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
